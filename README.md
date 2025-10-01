@@ -15,7 +15,7 @@ Built with **HTML, CSS, and JavaScript** to practice responsive design and UI st
    git clone https://github.com/avega89-0407/google-search-clone.git
 
 ## 📷 Preview
-
+![Screenshot på Google Search Clone](screenshot.png)
 
 ## ⚠️ Disclaimer
 
