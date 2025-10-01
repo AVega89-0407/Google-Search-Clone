@@ -17,9 +17,6 @@ Built with **HTML and CSS** to practice responsive design and UI styling.
 ## 📷 Preview
 ![Screenshot](screenshot.png)
 
-## 🌐 Live Demo 
-![Click on link](https://avega89-0407.github.io/Google-Search-Clone/)
-
 ## ⚠️ Disclaimer
 
 This project is for educational purposes only and does not use any official Google APIs.
