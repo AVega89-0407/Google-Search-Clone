@@ -12,8 +12,7 @@ Built with **HTML, CSS, and JavaScript** to practice responsive design and UI st
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-  Visit my project GitHub: [Google Search Clone](https://github.com/avega89-0407/google-search-clone)
-
+   git clone https://github.com/avega89-0407/google-search-clone.git
 
 ## 📷 Preview
 (Add a screenshot of your page here once hosted)
