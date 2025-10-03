@@ -33,6 +33,13 @@ a:hover {
     text-decoration: underline;
 }
 
+.sign-in {
+    width: 8vw;
+    color: white;
+    background-color: blue;
+    border-radius: 8px;
+}
+
 header {
     position: absolute;
     top: 200px;
@@ -41,6 +48,15 @@ header {
 
 main {
     display: flex;
+    align-items: center;
+}
+
+.i-bars {
+    color: black;
+}
+
+i {
+    color: gray;
 }
 
 form {
@@ -52,6 +68,7 @@ form {
     box-shadow: 0 4px 8px 0 lightgray;
     border-radius: 20px;
     display: flex;
+    justify-content: center;
 }
 
 
@@ -68,6 +85,34 @@ input[type=text] {
   background-position: 5px 5px;
   background-repeat: no-repeat;
   padding-left: 10px;
+}
+
+section {
+    position: relative;
+    top: 400px;
+    left: -250px;
+}
+
+button {
+    border: none;
+    margin: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 0;
+    background-color: lightgray;
+    color: gray;
+}
+
+article {
+    display: flex;
+    color: gray;
 }
 
 
